@@ -3,7 +3,7 @@ I am future front-end developer 😄
 
 Skills:  REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on site constructor project. 
+- 🔭 I’m currently working on some small projects. 
 - 🌱 I’m currently learning front-end development 
 
 
