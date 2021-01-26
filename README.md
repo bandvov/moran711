@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Roman
-I am future front-end developer 😄
+I am Full-stack developer 😄
 
-Skills:  REACT / JS / HTML / CSS
+Skills: TS / Node.js / MongoDB / Next.js / REACT / JS / HTML / CSS / SCSS
 
 - 🔭 I’m currently working on some small projects. 
 - 🌱 I’m currently learning front-end development 
